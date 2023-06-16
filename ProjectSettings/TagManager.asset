@@ -4,8 +4,9 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Food
-  - Obstacle
+  - Brick
+  - Ball
+  - Paddle
   layers:
   - Default
   - TransparentFX
@@ -42,4 +43,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 2408946859
+    locked: 0
+  - name: ui-menu
+    uniqueID: 2480079189
+    locked: 0
+  - name: palledAndBall
+    uniqueID: 3950347325
+    locked: 0
+  - name: brick
+    uniqueID: 2414583233
     locked: 0
